@@ -15,8 +15,8 @@ The following packages are needed to run the code in this tutorial:
 * NumPy
 * matplotlib
 * Astropy
-* APLpy
-* Bokeh
+* APLpy (conda install aplpy)
+* Bokeh (conda install bokeh)
 * PyXel: https://github.com/gogrean/PyXel
 
 All except the last three are included in the Anaconda Python distribution.
